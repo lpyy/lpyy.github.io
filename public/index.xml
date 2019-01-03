@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My First Site</title>
+    <link>https://lpyy.github.io/</link>
+    <description>Recent content on My First Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 03 Jan 2019 11:23:10 +0800</lastBuildDate>
+    
+	<atom:link href="https://lpyy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome</title>
+      <link>https://lpyy.github.io/posts/welcome/</link>
+      <pubDate>Thu, 03 Jan 2019 11:23:10 +0800</pubDate>
+      
+      <guid>https://lpyy.github.io/posts/welcome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://lpyy.github.io/posts/about/</link>
+      <pubDate>Thu, 03 Jan 2019 11:19:57 +0800</pubDate>
+      
+      <guid>https://lpyy.github.io/posts/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://lpyy.github.io/posts/my-first-post/</link>
+      <pubDate>Thu, 03 Jan 2019 10:56:46 +0800</pubDate>
+      
+      <guid>https://lpyy.github.io/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
